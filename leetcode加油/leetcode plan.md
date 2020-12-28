@@ -17,8 +17,8 @@
 
 - [x] <span style='color:#9966ff;background:背景颜色;font-size:文字大小;'>704. BinarySearch </span>
 
-- [ ] <span style='color:#6699ff;background:背景颜色;font-size:文字大小;'>34. Find First and Last Position of Element in Sorted Array</span>
-- [ ] <span style='color:#6699ff;background:背景颜色;font-size:文字大小;'>702. Search in a Sorted Array of Unknown Size</span>
+- [x] <span style='color:#6699ff;background:背景颜色;font-size:文字大小;'>34. Find First and Last Position of Element in Sorted Array</span>
+- [x] <span style='color:#6699ff;background:背景颜色;font-size:文字大小;'>702. Search in a Sorted Array of Unknown Size</span>
 - [ ] <span style='color:#99CC66;background:背景颜色;font-size:文字大小;'>153.Find Minimum in Rotated Sorted Array</span>
 - [ ] <span style='color:#99CC66;background:背景颜色;font-size:文字大小;'>154.Find Minimum in Rotated Sorted Array II</span>
 - [ ] <span style='color:#99CC66;background:背景颜色;font-size:文字大小;'>278.First Bad Version</span>
